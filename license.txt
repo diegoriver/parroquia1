@@ -1,0 +1,4 @@
+
+Theme Name: Parrish
+Copyright (c) 2018 Diego Rivera
+
