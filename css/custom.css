@@ -64,8 +64,33 @@ button {
     background: #121a2e;
 }
 
+html, body {
+    height: 100%;
+}
+
+#banner {
+    height: 100%;
+    background-color: white;
+}
+
+.banner-image {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+@media (max-width: 576px) {
+    #banner {
+        height: auto;
+    }
+}
+
 
 /********** banner **********/
+.banner-image {
+    background-size: cover;
+    background-position: center;
+}
 
 
 #banner header {
