@@ -131,11 +131,10 @@ html, body {
     height: 80px;
 }
 
-#logo_asitencia {
-    /* Establecer el ancho y el alto de la imagen */
-    width: 70%;
-    height: 70%;
+#logos_asistencia {
+    width: 50%;
 }
+
 #logos_teclado {
     /* Establecer el ancho y el alto de la imagen */
     width: auto;
