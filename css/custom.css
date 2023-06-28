@@ -120,7 +120,7 @@ html, body {
 /********** soluciones **********/
 
 #soluciones {
-    background-color: #fffdf4;
+    background-color: #ffffff;
 }
 
 
@@ -145,6 +145,9 @@ html, body {
     max-width: 480px;
 }
 
+#feature-first1 {
+    background: linear-gradient(168deg, #EABE3F 75%, #fcfbfb 0);
+}
 #feature-first {
     background: linear-gradient(168deg, #fcfbfb 75%, #EABE3F 0);
 }
