@@ -145,22 +145,24 @@ html, body {
     max-width: 480px;
 }
 
-#feature-first1 {
-    background: linear-gradient(168deg, #EABE3F 75%, #fcfbfb 0);
+#feature-first-1 {
+    background: linear-gradient(168deg, #d5caa9 80%, #ffffff 0);
 }
-#feature-first {
-    background: linear-gradient(168deg, #fcfbfb 75%, #EABE3F 0);
-}
-
-#feature-last {
-    background: linear-gradient(168deg, #EABE3F 75%, #ffffff 0);
+#feature-first-2 {
+    background: linear-gradient(168deg, #ffffff 80%, #EABE3F 0);
 }
 
 #feature-last-1 {
-    background: linear-gradient(168deg, #EABE3F 75%, #EABE3F 0);
+    background: linear-gradient(168deg, #EABE3F 80%, #ffffff 0);
 }
 
+#feature-last-2 {
+    background: linear-gradient(168deg, #ffffff 80%, #bcac1a 0);
+}
 
+#feature-last-3 {
+    background: linear-gradient(168deg, #bcac1a 80%, #bcac1a 0);
+}
 
 /********** contact **********/
 #contact {
